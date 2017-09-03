@@ -223,12 +223,11 @@ nav a {
 .thesis {
   display: flex;
   flex-direction: row;
-  padding-bottom: 16px;
 }
 
 .thesis img {
   width: 35%;
-  height: 100%;
+  height: 95%;
   padding: 0 16px 16px 16px;
 }
 
