@@ -127,6 +127,7 @@ nav a {
 
 .i-container.sml {
   width: 40%;
+  padding: 10px 0;
 }
 
 .information {
@@ -184,6 +185,11 @@ nav a {
   width: 30%;
 }
 
+.course img {
+  width: 100%;
+  height: auto;
+}
+
 .course h4, .course p {
   padding: 0 16px;
 }
@@ -221,6 +227,7 @@ nav a {
 
 .thesis img {
   width: 35%;
+  height: 35%;
   padding: 0 16px 16px 16px;
 }
 
