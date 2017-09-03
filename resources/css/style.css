@@ -98,6 +98,11 @@ nav a {
   width: 85%;
   text-align: center;
   margin: 0;
+  transition: background-color 250ms ease-out 100ms;
+}
+
+.j-container .button:hover {
+  background-color: #7e7979;
 }
 
 .j-container .button a {
@@ -137,6 +142,11 @@ nav a {
   width: 100%;
   padding: 16px;
   border: 1px solid lightgray;
+  transition: background-color 500ms linear 100ms;
+}
+
+.information:hover{
+  background-color: lightgray;
 }
 
 .information img {
@@ -224,6 +234,11 @@ nav a {
 .thesis {
   display: flex;
   flex-direction: row;
+  transition: background-color 500ms linear 100ms;
+}
+
+.thesis:hover {
+  background-color: lightgray;
 }
 
 .thesis img {
