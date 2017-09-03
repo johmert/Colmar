@@ -316,8 +316,7 @@ footer span {
 
   .j-container {
     width: 100%;
-    padding: 32px 16px;
-    align-items: center;
+    padding: 32px;
   }
 
   .i-container.lrg {
@@ -341,7 +340,7 @@ footer span {
 
   .info-image {
     background-size: cover;
-    width: 90%;
+    width: 100%;
     height: 250px;
   }
 
