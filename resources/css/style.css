@@ -141,7 +141,7 @@ nav a {
 
 .information img {
   width: 35%;
-  height: 35%;
+  height: 100%;
 }
 
 .info-text {
@@ -227,7 +227,7 @@ nav a {
 
 .thesis img {
   width: 35%;
-  height: 35%;
+  height: 100%;
   padding: 0 16px 16px 16px;
 }
 
